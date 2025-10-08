@@ -1,4 +1,4 @@
-name: Deploy UrbanGrow CloudFormation StackS
+name: Deploy UrbanGrow v2 CloudFormation Stack
 
 on:
   workflow_dispatch:
